@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:acmecluster1/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: alex.bucher@myposter.de
+  token: vault:acmecluster1/pipelineUser:token
+  username: alex-sainer
+prow:
+  hmacToken: vault:acmecluster1/prow:hmacToken
