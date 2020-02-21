@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: alex-sainer
+  repo: quickstart-php
+  url: https://github.com/alex-sainer/quickstart-php.git
+  version: ""
+  versionURL: ""
